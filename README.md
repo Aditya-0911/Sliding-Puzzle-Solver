@@ -1,6 +1,6 @@
 # Sliding-Puzzle-Solver
 
-A python program implementing any Search strategy to solve the arrange square puzzle (Image below).
+A python program implementing any Search strategy to solve the arrange square puzzle.
 
 ![image](https://miro.medium.com/v2/resize:fit:1400/1*W7jg4GmEjGBypd9WPktasQ.gif)
 
